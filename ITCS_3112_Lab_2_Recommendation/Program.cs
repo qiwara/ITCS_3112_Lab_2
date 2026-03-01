@@ -1,3 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿namespace ITCS_3112_Lab_2_Recommendation;
 
-Console.WriteLine("Hello, World!");
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, World!");
+    }
+}
